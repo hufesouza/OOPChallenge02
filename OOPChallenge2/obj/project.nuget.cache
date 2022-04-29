@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lXxYEPC9psZ4ACh628LmVdm6CKt7k6orlhI0bl0vDzH5H0csl5FVHRoJs61sZOCRMQK5WoeD6N/bc874xVYCdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HFerreira\\source\\repos\\OOPChallenge2\\OOPChallenge2\\OOPChallenge2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HFerreira\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
